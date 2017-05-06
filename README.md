@@ -8,4 +8,4 @@ This repository can be viewed at the following locations:
 * [Bitbucket](https://bitbucket.org/jaanos/jupyter-test/)
 * [GitLab](https://gitlab.com/jaanos/jupyter-test/)
 * [GitLab CE](https://git.lkrv.fri.uni-lj.si/janos/jupyter-test/) currently running on Ubuntu 14.04 LTS with regular updates
-* [MyBinder](http://mybinder.org/repo/jaanos/jupyter-test) deriving from the GitHub repository
+* [Binder](http://mybinder.org/repo/jaanos/jupyter-test) deriving from the GitHub repository
